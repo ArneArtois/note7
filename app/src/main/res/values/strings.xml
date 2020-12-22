@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">note7</string>
+    <string name="add" translatable="false">add</string>
+    <string name="log_out" translatable="false">log out</string>
+</resources>
